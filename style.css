@@ -21,11 +21,10 @@ body{
    margin: 02px;
 
 }
-.cabeçalho-lista-item{
-   display: inline-block;
-   margin: 0 16px;
-   font-size: 24px;
-
+.cabeçalho-lista-item {
+  display: inline-block; 
+  margin: 0 16px; 
+  font-size: 24px;    
 }
 .escola-imagem{
    width: 20%;
@@ -63,4 +62,12 @@ body{
 .estudante-todos{
    display: grid;
    grid-template-columns: 20% 20% 20% 20% 20% 20% 20% 20% 20%;
+}
+.rodape{
+   background-color: rgb(71, 66, 66);
+   text-align: center;
+}
+.rodape-imagem{
+   height: 80px;
+   pad: 12px 0;
 }
