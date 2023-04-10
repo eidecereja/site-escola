@@ -12,13 +12,13 @@ body{
    display: flex;
    justify-content: space-around;
    align-items: center;
-   padding: 24px 0; 
+   padding: 06px 0; 
    
 }
 
 .cabeçalho-imagem{
-   width: 24%;
-   margin: 02px;
+   width: 05%;
+   
 
 }
 .cabeçalho-lista-item {
@@ -27,7 +27,7 @@ body{
   font-size: 24px;    
 }
 .escola-imagem{
-   width: 20%;
+   width: 05%;
    
 }
 .escola{
